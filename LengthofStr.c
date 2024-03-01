@@ -8,8 +8,9 @@ int main() {
 	printf("length of the string is %d\n",l);
 	//without using builtin functions
 	i=0;
-	while(s[i]!=0) {
-		i++;
+	while(s[i]!=0) 
+	{
+          i++;
 	}
 	printf("length of string is %d\n",l);
 	return 0;
