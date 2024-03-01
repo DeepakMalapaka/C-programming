@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main() {
+int main() 
+{
 	int a,b,c,d,e,f,g,i,j;
 	printf("Enter values of a,b,c,d,e,f,i,j:");
 	scanf("%f%f%f%f%f%f%f%f",&a,&b,&c,&d,&d,&e,&f,&i,&j);
