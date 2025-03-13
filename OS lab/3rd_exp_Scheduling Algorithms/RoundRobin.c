@@ -1,6 +1,5 @@
 #include<stdio.h>
-#include<stdlib.h>
-#include<string.h>
+
 int main()
 {
 	int bt[10],wt[10],tat[10],ct[10];
